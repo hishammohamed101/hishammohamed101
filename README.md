@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J0eXlqYW9xNWNoajFmaXc0bG9kNHlseTg3b250NDRrYjRtajgzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTV3ciE3YTDycJXhmq/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/hisham-mohamed-2b91371a2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
