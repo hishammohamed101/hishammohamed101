@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw0ZDl0eGloa3VxM3htMHptdmIza2Rsd213a2g2dGRmaXo4eXV3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Jnbt9rItVcqQRl7ae/giphy.gif"  />
+  <img height="260" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J0eXlqYW9xNWNoajFmaXc0bG9kNHlseTg3b250NDRrYjRtajgzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTV3ciE3YTDycJXhmq/giphy.gif"  />
 </div>
 
 ###
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/0xSerpent1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
   <a href="https://discord.gg/5sqhpSFc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
