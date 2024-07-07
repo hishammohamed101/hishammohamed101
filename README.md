@@ -1,44 +1,81 @@
-# Hi there, I'm Your Name! 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
 
-![Profile Animation](https://github.com/yourusername/yourusername/assets/profile-animation.gif)
+        .container {
+            text-align: center;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            max-width: 600px;
+            width: 90%;
+        }
 
-Welcome to my GitHub profile! I'm a smart contract developer passionate about building decentralized applications and improving blockchain technology.
+        h1 {
+            color: #333;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
 
-## About Me
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
 
-- 💼 Smart Contract Developer at [Your Company](https://yourcompany.com)
-- 🛠 Skilled in Solidity, Foundry, and Ethereum development
-- 🌱 Currently learning more about Layer 2 solutions and DeFi protocols
-- 🎓 Graduated from [Your University](https://youruniversity.edu) with a degree in Computer Science
+        .social-links {
+            margin-top: 30px;
+        }
 
-## Projects
+        .social-links a {
+            display: inline-block;
+            margin: 0 10px;
+            color: #007bff;
+            text-decoration: none;
+            font-size: 1.2em;
+            transition: color 0.3s ease;
+        }
 
-### Invariant Test Practice
+        .social-links a:hover {
+            color: #0056b3;
+        }
 
-This project demonstrates how to perform invariant testing using Foundry. Invariant testing ensures the reliability and correctness of smart contracts by continuously validating certain conditions.
+        .bio {
+            font-style: italic;
+            margin-top: 20px;
+            font-size: 1.1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My GitHub Profile</h1>
+        <p>Cybersecurity engineer by day, Smart Contract Auditor by night. When not defending the internet, I'm probably drinking coffee and cracking jokes.</p>
+        
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/hisham-mohamed-2b91371a2/" target="_blank">LinkedIn</a>
+            <a href="https://x.com/0xSerpent1" target="_blank">Twitter</a>
+            <a href="https://medium.com/@hm430001" target="_blank">Medium</a>
+            <a href="mailto:hishammohamed0x@outlook.com">Email</a>
+        </div>
 
-[![Invariant Test Practice](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=InvariantTestPractice)](https://github.com/yourusername/InvariantTestPractice)
-
-### Another Project
-
-Description of another project you want to highlight.
-
-[![Another Project](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=anotherproject)](https://github.com/yourusername/anotherproject)
-
-## Skills
-
-- **Languages**: Solidity, JavaScript, Python
-- **Tools**: Foundry, Hardhat, Truffle
-- **Technologies**: Ethereum, IPFS, Chainlink
-
-## Get in Touch
-
-- LinkedIn: [HishamMohamed](https://www.linkedin.com/in/hisham-mohamed-2b91371a2/)
-- Twitter: [@0xSerpent1](https://x.com/0xSerpent1)
-- Medium: [@Hisham101](https://medium.com/@hm430001)
-- Email: hishammohamed0x@outlook.com
-
----
-
-*Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just say hi.*
-
+        <p class="bio">Cybersecurity enthusiast and blockchain developer. Passionate about securing digital assets and exploring decentralized technologies.</p>
+    </div>
+</body>
+</html>
