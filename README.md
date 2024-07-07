@@ -25,6 +25,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hishammohamed101/hishammohamed101/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="310" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGw0ZDl0eGloa3VxM3htMHptdmIza2Rsd213a2g2dGRmaXo4eXV3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Jnbt9rItVcqQRl7ae/giphy.gif"  />
+</div>
 
 ###
