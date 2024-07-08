@@ -34,6 +34,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hishammohamed101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishammohamed101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <div align="right">
+  <img height="140" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZkYWRjM3h6M2VzN2Nrb3F3c3V5cm95dmY5bGhwaHIzMDJzajdmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0u7eU0nSmOJ0hGf6n/giphy.gif"  />
+</div>
+
+###
 </div>
 
 ###
