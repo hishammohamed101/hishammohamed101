@@ -8,7 +8,7 @@
   <a href="https://discord.gg/5sqhpSFc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
   </a>
-  <a href="hishammohamed0x@outlook.com" target="_blank">
+  <a href="hm430001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="30" alt="microsoft-outlook logo"  />
   </a>
 </div>
